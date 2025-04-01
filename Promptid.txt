@@ -131,3 +131,13 @@ Vaivara, aadressbüroo, kunstiülikool, maa-amet, andma, aluspõhjakivim, sõdur
 
 Train: ravivõimlem, Williams, Pallas, reisibüroo, motodoktor, elementaarkool, erikool, töökäsi, advokaadibüroo, puiatu.
 
+## Sõnad, mis ei oma eesti keelest tähendust on märgitud "-"-ga.
+
+Provide the output in a JSON format, where:
+
+'1' indicates that the given Estonian word is valid and has meaning.
+'0' indicates that the word does not meet these criteria.
+Evaluate the following words accordingly:
+Vaivara, aadressbüroo, kunstiülikool, maa-amet, andma, aluspõhjakivim, sõdur, Maaülikool, triibuvaip, keeltekool.
+
+Train: 

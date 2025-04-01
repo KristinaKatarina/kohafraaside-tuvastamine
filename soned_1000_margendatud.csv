@@ -25,11 +25,11 @@
 23,fonoteek,1,0,0,0
 24,Varasem,1,0,0,0
 25,KaksPoissiTallinn,0,0,0,1
-26,arhitektuuriinstituut,1,0,0,0
+26,arhitektuuriinstituut,0,0,1,0
 27,inlite,0,0,0,1
 28,vangistusülem,1,0,0,0
 29,uhu,0,0,0,1
-30,advokaadibüroo,0,1,0,0
+30,advokaadibüroo,0,0,1,0
 31,masšuud,0,0,0,1
 32,töökäsi,1,0,0,0
 33,puiatu,0,1,0,0
@@ -176,7 +176,7 @@
 174,tänavakivi,0,1,0,0
 175,nyd,0,0,0,1
 176,omavalitsusvalimine,1,0,0,0
-177,konfliktikolle,0,0,1,0
+177,konfliktikolle,1,0,0,0
 178,metallilagu,1,0,0,0
 179,elektrienergeetika,1,0,0,0
 180,neitsi,1,0,0,0
@@ -209,7 +209,7 @@
 207,laulukool,0,1,0,0
 208,allikas,0,1,0,0
 209,kiirendamine,1,0,0,0
-210,tagasistumine,1,0,0,0
+210,tagasistumine,0,0,0,1
 211,Oslo,0,1,0,0
 212,äratõukepakk,0,1,0,0
 213,kontoriruum,0,1,0,0
@@ -229,7 +229,7 @@
 227,püsitöö,1,0,0,0
 228,Surnumeri,0,1,0,0
 229,kehava,1,0,0,0
-230,tehnikaülikool,0,1,0,0
+230,tehnikaülikool,0,0,1,0
 231,vahetusmeestepink,0,1,0,0
 232,raatus,0,1,0,0
 233,vändra,0,1,0,0
@@ -251,9 +251,9 @@
 249,novembris-detsember,1,0,0,0
 250,sektsioon,1,0,0,0
 251,teatrikirjatsura,0,0,0,1
-252,erikool,0,1,0,0
+252,erikool,0,0,1,0
 253,millea,0,0,0,1
-254,põllumajandusülikool,0,1,0,0
+254,põllumajandusülikool,0,0,1,0
 255,Sci-Fi,0,0,0,1
 256,suusapäev,1,0,0,0
 257,Peterhofi,0,1,0,0
@@ -266,7 +266,7 @@
 264,tardumus,1,0,0,0
 265,naftariik,0,1,0,0
 266,Aleksanderplats,0,1,0,0
-267,reisibüroo,0,1,0,0
+267,reisibüroo,0,0,1,0
 268,polikliinik,0,1,0,0
 269,motodoktor,1,0,0,0
 270,taandumine,1,0,0,0
@@ -307,7 +307,7 @@
 305,RAM,1,0,0,0
 306,taanlane,1,0,0,0
 307,teevabrik,0,1,0,0
-308,C-sektor,0,0,1,0
+308,C-sektor,0,0,0,1
 309,pingutus,1,0,0,0
 310,detsember,1,0,0,0
 311,hariduskontseptsioon,1,0,0,0
@@ -333,7 +333,7 @@
 331,Mexico,0,1,0,0
 332,egiptus,0,1,0,0
 333,vöörikamorka,0,0,0,1
-334,mujalt-Eesti,0,0,1,0
+334,mujalt-Eesti,0,0,0,1
 335,formeeritav,1,0,0,0
 336,peterburi,0,1,0,0
 337,võistluskeskus,0,1,0,0
@@ -385,8 +385,8 @@
 383,viimasepea,1,0,0,0
 384,karaokeõhtu,1,0,0,0
 385,omavoliline,1,0,0,0
-386,Rate.ee,1,0,0,0
-387,ainsamask,1,0,0,0
+386,Rate.ee,0,0,0,1
+387,ainsamask,0,0,0,1
 388,dennis,1,0,0,0
 389,linnateater,0,1,0,0
 390,koorijuhtimine,1,0,0,0
@@ -405,7 +405,7 @@
 403,kindlustatu,1,0,0,0
 404,rokk-kontsert,1,0,0,0
 405,taktimõõt,1,0,0,0
-406,elementaarkool,0,1,0,0
+406,elementaarkool,0,0,1,0
 407,turnee,1,0,0,0
 408,palgihunnik,0,1,0,0
 409,suraka,1,0,0,0
@@ -457,7 +457,7 @@
 455,asendamine,1,0,0,0
 456,kuupind,0,1,0,0
 457,xxx,0,0,0,1
-458,kullo,0,1,0,0
+458,kullo,0,0,1,0
 459,oode,1,0,0,0
 460,kombinesoon,1,0,0,0
 461,lastehommik,1,0,0,0
