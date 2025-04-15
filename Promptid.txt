@@ -64,6 +64,17 @@ Belesta, parem, põhi, füüsika, edel, all, ajakiri, Elle, sprindiladvik, lää
 
 Train: ida, em, söögikoht, kirre, kagu, Oslo, tõusuund, lõuna, loe, Novatourss, vasak.
 
+## piirkonnad on kohad
+
+Provide the output in JSON format, where:
+
+'1' indicates that the given Estonian word is a type of region. 
+'0' indicates that the word does not meet these criteria.
+Evaluate the following words accordingly: lennuväli, maapiirkond, rahvavabariik, Lõuna-Ameerika, kaupmeesterida, üksildus, Andorra, kaasamine, baltikum, buss.
+
+
+Train: naftariik, plats, Philadelphia, banaanivabariik, sektor, veinipiirkond, keep, proua, kriisipiirkond, kõrgrõhuvöönd.
+
 
 ## Eesnimed, perekonnanimed ja isikud ei ole kohad.
 
@@ -138,6 +149,6 @@ Provide the output in a JSON format, where:
 '1' indicates that the given Estonian word is valid and has meaning.
 '0' indicates that the word does not meet these criteria.
 Evaluate the following words accordingly:
-Vaivara, aadressbüroo, kunstiülikool, maa-amet, andma, aluspõhjakivim, sõdur, Maaülikool, triibuvaip, keeltekool.
+SÜGI, lsea, abielusadam, Vaindloo, teadmishimu, verenäitaja, Miko, märkisperiood, riigiorgan, mõlem.
 
-Train: 
+Train: inlite, Sopot, 700rpm, õhtune, stamp, näevi, VAAP, sünd, pasteerim, ravimine.
